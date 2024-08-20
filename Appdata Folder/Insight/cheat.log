@@ -1,0 +1,64 @@
+[Warn] : [Main] Insight Instance Starting, Security Threads
+[Info] : Created Thread Thread 134 At Id 81
+[Warn] : Failed to phrasing objects.ini
+[Fine] : [Hook] Hooked: RCE
+[Warn] : Failed to phrasing favorite_objects.ini
+[Fine] : [Hook] Hooked: PC2
+[Fine] : [Hook] Hooked: PSN
+[Fine] : [Hook] Hooked: INT
+[Fine] : [Hook] Hooked: CP
+[Fine] : [Hook] Hooked: VPMN
+[Fine] : [Hook] Hooked: GJC
+[Fine] : [Hook] Hooked: PC
+[Fine] : [Hook] Hooked: PCDN
+[Fine] : [Hook] Hooked: PGSN
+[Fine] : [Hook] Hooked: SSD
+[Fine] : [Hook] Hooked: AETL
+[Info] : Adding Script Patch In Script 970617739
+[Fine] : [Hook] Hooked: HCAD
+[Fine] : [Hook] Hooked: SM
+[Fine] : [Hook] Hooked: SHR
+[Fine] : [Hook] Hooked: GFI
+[Fine] : [Hook] Hooked: PCN
+[Fine] : [Hook] Hooked: OCDN
+[Fine] : [Hook] Hooked: IDC
+[Fine] : [Hook] Hooked: RPCP
+[Fine] : [Hook] Hooked: RNM
+[Fine] : [Hook] Hooked: GPA
+[Fine] : [Hook] Hooked: QD
+[Fine] : [Hook] Hooked: HRCC
+[Fine] : [Hook] Hooked: RECP
+[Fine] : [Hook] Hooked: FC
+[Fine] : [Hook] Hooked: HRCS
+[Fine] : [Hook] Hooked: RBPCP
+[Fine] : Created Default Config File
+[Info] : Hooked Window Process
+[Info] : Pushed 1347 Options
+[Fine] : [Hook] Unhooked: RCE
+[Fine] : [Hook] Unhooked: PC2
+[Fine] : [Hook] Unhooked: PSN
+[Fine] : [Hook] Unhooked: INT
+[Fine] : [Hook] Unhooked: CP
+[Fine] : [Hook] Unhooked: VPMN
+[Fine] : [Hook] Unhooked: GJC
+[Fine] : [Hook] Unhooked: PC
+[Fine] : [Hook] Unhooked: PCDN
+[Fine] : [Hook] Unhooked: PGSN
+[Fine] : [Hook] Unhooked: SSD
+[Fine] : [Hook] Unhooked: AETL
+[Fine] : [Hook] Unhooked: HCAD
+[Fine] : [Hook] Unhooked: SM
+[Fine] : [Hook] Unhooked: SHR
+[Fine] : [Hook] Unhooked: GFI
+[Fine] : [Hook] Unhooked: PCN
+[Fine] : [Hook] Unhooked: OCDN
+[Fine] : [Hook] Unhooked: IDC
+[Fine] : [Hook] Unhooked: RPCP
+[Fine] : [Hook] Unhooked: RNM
+[Fine] : [Hook] Unhooked: GPA
+[Fine] : [Hook] Unhooked: QD
+[Fine] : [Hook] Unhooked: HRCC
+[Fine] : [Hook] Unhooked: RECP
+[Fine] : [Hook] Unhooked: FC
+[Fine] : [Hook] Unhooked: HRCS
+[Fine] : [Hook] Unhooked: RBPCP

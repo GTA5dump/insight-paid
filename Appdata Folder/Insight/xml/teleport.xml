@@ -1,0 +1,1580 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Teleports>
+<Indoor>
+    <_0>
+      <Name>Strip Club DJ Booth</Name>
+      <X>126.135</X>
+      <Y>-1278.583</Y>
+      <Z>29.270</Z>
+    </_0>
+    <_1>
+      <Name>Blaine County Savings Bank</Name>
+      <X>-109.299</X>
+      <Y>6464.035</Y>
+      <Z>31.627</Z>
+    </_1>
+    <_2>
+      <Name>Police Station</Name>
+      <X>436.491</X>
+      <Y>-982.172</Y>
+      <Z>30.699</Z>
+    </_2>
+    <_3>
+      <Name>Humane Labs Entrance</Name>
+      <X>3619.749</X>
+      <Y>2742.740</Y>
+      <Z>28.690</Z>
+    </_3>
+    <_4>
+      <Name>Burnt FIB Building</Name>
+      <X>160.868</X>
+      <Y>-745.831</Y>
+      <Z>250.063</Z>
+    </_4>
+    <_5>
+      <Name>10 Car Garage</Name>
+      <X>229.9559</X>
+      <Y>-981.7928</Y>
+      <Z>-99.66071</Z>
+    </_5>
+    <_6>
+      <Name>Humane Labs Tunnel</Name>
+      <X>3525.495</X>
+      <Y>3705.301</Y>
+      <Z>20.992</Z>
+    </_6>
+    <_7>
+      <Name>Ammunation Office</Name>
+      <X>12.494</X>
+      <Y>-1110.130</Y>
+      <Z>29.797</Z>
+    </_7>
+    <_8>
+      <Name>Ammunation Gun Range</Name>
+      <X>22.153</X>
+      <Y>-1072.854</Y>
+      <Z>29.797</Z>
+    </_8>
+    <_9>
+      <Name>Trevors Meth Lab</Name>
+      <X>1391.773</X>
+      <Y>3608.716</Y>
+      <Z>38.942</Z>
+    </_9>
+    <_10>
+      <Name>Pacific Standard Bank Vault</Name>
+      <X>255.851</X>
+      <Y>217.030</Y>
+      <Z>101.683</Z>
+    </_10>
+    <_11>
+      <Name>Lesters House</Name>
+      <X>1273.898</X>
+      <Y>-1719.304</Y>
+      <Z>54.771</Z>
+    </_11>
+    <_12>
+      <Name>Floyds Apartment</Name>
+      <X>-1150.703</X>
+      <Y>-1520.713</Y>
+      <Z>10.633</Z>
+    </_12>
+    <_13>
+      <Name>FIB Top Floor</Name>
+      <X>135.733</X>
+      <Y>-749.216</Y>
+      <Z>258.152</Z>
+    </_13>
+    <_14>
+      <Name>IAA Office</Name>
+      <X>117.220</X>
+      <Y>-620.938</Y>
+      <Z>206.047</Z>
+    </_14>
+    <_15>
+      <Name>Pacific Standard Bank</Name>
+      <X>235.046</X>
+      <Y>216.434</Y>
+      <Z>106.287</Z>
+    </_15>
+    <_16>
+      <Name>Fort Zancudo ATC entrance</Name>
+      <X>-2344.373</X>
+      <Y>3267.498</Y>
+      <Z>32.811</Z>
+    </_16>
+    <_17>
+      <Name>Fort Zancudo ATC top floor</Name>
+      <X>-2358.132</X>
+      <Y>3249.754</Y>
+      <Z>101.451</Z>
+    </_17>
+    <_18>
+      <Name>Torture Room</Name>
+      <X>147.170</X>
+      <Y>-2201.804</Y>
+      <Z>4.688</Z>
+    </_18>
+  </Indoor>
+<Outdoor>
+    <_0>
+      <Name>Main LS Customs</Name>
+      <X>-365.425</X>
+      <Y>-131.809</Y>
+      <Z>37.873</Z>
+    </_0>
+    <_1>
+      <Name>IAA Roof</Name>
+      <X>134.085</X>
+      <Y>-637.859</Y>
+      <Z>262.851</Z>
+    </_1>
+    <_2>
+      <Name>FIB Roof</Name>
+      <X>150.126</X>
+      <Y>-754.591</Y>
+      <Z>262.865</Z>
+    </_2>
+    <_3>
+      <Name>Maze Bank Roof</Name>
+      <X>-75.015</X>
+      <Y>-818.215</Y>
+      <Z>326.176</Z>
+    </_3>
+    <_4>
+      <Name>Top of the Mt Chilad</Name>
+      <X>450.718</X>
+      <Y>5566.614</Y>
+      <Z>806.183</Z>
+    </_4>
+    <_5>
+      <Name>Most Noortherly Point</Name>
+      <X>24.775</X>
+      <Y>7644.102</Y>
+      <Z>19.055</Z>
+    </_5>
+    <_6>
+      <Name>Vinewood Bowl Stage</Name>
+      <X>686.245</X>
+      <Y>577.950</Y>
+      <Z>130.461</Z>
+    </_6>
+    <_7>
+      <Name>Sisyphus Theater Stage</Name>
+      <X>205.316</X>
+      <Y>1167.378</Y>
+      <Z>227.005</Z>
+    </_7>
+    <_8>
+      <Name>Galileo Observatory Roof</Name>
+      <X>-438.804</X>
+      <Y>1076.097</Y>
+      <Z>352.411</Z>
+    </_8>
+    <_9>
+      <Name>Kortz Center</Name>
+      <X>-2243.810</X>
+      <Y>264.048</Y>
+      <Z>174.615</Z>
+   
+
+ </_9>
+    <_10>
+      <Name>Chumash Historic Family Pier</Name>
+      <X>-3426.683</X>
+      <Y>967.738</Y>
+      <Z>8.347</Z>
+    </_10>
+    <_11>
+      <Name>Paleto Bay Pier</Name>
+      <X>-275.522</X>
+      <Y>6635.835</Y>
+      <Z>7.425</Z>
+    </_11>
+    <_12>
+      <Name>Gods Thumb</Name>
+      <X>-1006.402</X>
+      <Y>6272.383</Y>
+      <Z>1.503</Z>
+    </_12>
+    <_13>
+      <Name>Calafia Train Bridge</Name>
+      <X>-517.869</X>
+      <Y>4425.284</Y>
+      <Z>89.795</Z>
+    </_13>
+    <_14>
+      <Name>Altruist Cult Camp</Name>
+      <X>-1170.841</X>
+      <Y>4926.646</Y>
+      <Z>224.295</Z>
+    </_14>
+    <_15>
+      <Name>Maze Bank Arena Roof</Name>
+      <X>-324.300</X>
+      <Y>-1968.545</Y>
+      <Z>67.002</Z>
+    </_15>
+    <_16>
+      <Name>Marlowe Vineyards</Name>
+      <X>-1868.971</X>
+      <Y>2095.674</Y>
+      <Z>139.115</Z>
+    </_16>
+    <_17>
+      <Name>Hippy Camp</Name>
+      <X>2476.712</X>
+      <Y>3789.645</Y>
+      <Z>41.226</Z>
+    </_17>
+    <_18>
+      <Name>Devin Westons House</Name>
+      <X>-2639.872</X>
+      <Y>1866.812</Y>
+      <Z>160.135</Z>
+    </_18>
+    <_19>
+      <Name>Abandon Mine</Name>
+      <X>-595.342</X>
+      <Y>2086.008</Y>
+      <Z>131.412</Z>
+    </_19>
+    <_20>
+      <Name>Weed Farm</Name>
+      <X>2208.777</X>
+      <Y>5578.235</Y>
+      <Z>53.735</Z>
+    </_20>
+    <_21>
+      <Name>Stab City</Name>
+      <X>126.975</X>
+      <Y>3714.419</Y>
+      <Z>46.827</Z>
+    </_21>
+    <_22>
+      <Name>Airplane Graveyard Airplane Tail</Name>
+      <X>2395.096</X>
+      <Y>3049.616</Y>
+      <Z>60.053</Z>
+    </_22>
+    <_23>
+      <Name>Satellite Dish Antenna</Name>
+      <X>2034.988</X>
+      <Y>2953.105</Y>
+      <Z>74.602</Z>
+    </_23>
+    <_24>
+      <Name>Satellite Dishes</Name>
+      <X>2062.123</X>
+      <Y>2942.055</Y>
+      <Z>47.431</Z>
+    </_24>
+    <_25>
+      <Name>Windmill Top</Name>
+      <X>2026.677</X>
+      <Y>1842.684</Y>
+      <Z>133.313</Z>
+    </_25>
+    <_26>
+      <Name>Sandy Shores Building Site Crane</Name>
+      <X>1051.209</X>
+      <Y>2280.452</Y>
+      <Z>89.727</Z>
+    </_26>
+    <_27>
+      <Name>Rebel Radio</Name>
+      <X>736.153</X>
+      <Y>2583.143</Y>
+      <Z>79.634</Z>
+    </_27>
+    <_28>
+      <Name>Quarry</Name>
+      <X>2954.196</X>
+      <Y>2783.410</Y>
+      <Z>41.004</Z>
+    </_28>
+    <_29>
+      <Name>Palmer-Taylor Power Station Chimney</Name>
+      <X>2732.931</X>
+      <Y>1577.540</Y>
+      <Z>83.671</Z>
+    </_29>
+    <_30>
+      <Name>Merryweather Dock</Name>
+      <X>486.417</X>
+      <Y>-3339.692</Y>
+      <Z>6.070</Z>
+    </_30>
+    <_31>
+      <Name>Cargo Ship</Name>
+      <X>899.678</X>
+      <Y>-2882.191</Y>
+      <Z>19.013</Z>
+    </_31>
+    <_32>
+      <Name>Del Perro Pier</Name>
+      <X>-1850.127</X>
+      <Y>-1231.751</Y>
+      <Z>13.017</Z>
+    </_32>
+    <_33>
+      <Name>Play Boy Mansion</Name>
+      <X>-1475.234</X>
+      <Y>167.088</Y>
+      <Z>55.841</Z>
+    </_33>
+    <_34>
+      <Name>Jolene Cranley-Evans Ghost</Name>
+      <X>3059.620</X>
+      <Y>5564.246</Y>
+      <Z>197.091</Z>
+    </_34>
+    <_35>
+      <Name>NOOSE Headquarters</Name>
+      <X>2535.243</X>
+      <Y>-383.799</Y>
+      <Z>92.993</Z>
+    </_35>
+    <_36>
+      <Name>Snowman</Name>
+      <X>971.245</X>
+      <Y>-1620.993</Y>
+      <Z>30.111</Z>
+    </_36>
+    <_37>
+      <Name>Oriental Theater</Name>
+      <X>293.089</X>
+      <Y>180.466</Y>
+      <Z>104.301</Z>
+    </_37>
+    <_38>
+      <Name>Beach Skatepark</Name>
+      <X>-1374.881</X>
+      <Y>-1398.835</Y>
+      <Z>6.141</Z>
+    </_38>
+    <_39>
+      <Name>
+
+Underpass Skatepark</Name>
+      <X>718.341</X>
+      <Y>-1218.714</Y>
+      <Z>26.014</Z>
+    </_39>
+    <_40>
+      <Name>Casino</Name>
+      <X>925.329</X>
+      <Y>46.152</Y>
+      <Z>80.908</Z>
+    </_40>
+    <_41>
+      <Name>University of San Andreas</Name>
+      <X>-1696.866</X>
+      <Y>142.747</Y>
+      <Z>64.372</Z>
+    </_41>
+    <_42>
+      <Name>La Puerta Freeway Bridge</Name>
+      <X>-543.932</X>
+      <Y>-2225.543</Y>
+      <Z>122.366</Z>
+    </_42>
+    <_43>
+      <Name>Land Act Dam</Name>
+      <X>1660.369</X>
+      <Y>-12.013</Y>
+      <Z>170.020</Z>
+    </_43>
+    <_44>
+      <Name>Mount Gordo</Name>
+      <X>2877.633</X>
+      <Y>5911.078</Y>
+      <Z>369.624</Z>
+    </_44>
+    <_45>
+      <Name>Little Seoul</Name>
+      <X>-889.655</X>
+      <Y>-853.499</Y>
+      <Z>20.566</Z>
+    </_45>
+    <_46>
+      <Name>Epsilon Building</Name>
+      <X>-695.025</X>
+      <Y>82.955</Y>
+      <Z>55.855</Z>
+    </_46>
+    <_47>
+      <Name>The Richman Hotel</Name>
+      <X>-1330.911</X>
+      <Y>340.871</Y>
+      <Z>64.078</Z>
+    </_47>
+    <_48>
+      <Name>Vinewood Sign</Name>
+      <X>711.362</X>
+      <Y>1198.134</Y>
+      <Z>348.526</Z>
+    </_48>
+    <_49>
+      <Name>Los Santos Golf Club</Name>
+      <X>-1336.715</X>
+      <Y>59.051</Y>
+      <Z>55.246</Z>
+    </_49>
+    <_50>
+      <Name>Chicken</Name>
+      <X>-31.010</X>
+      <Y>6316.830</Y>
+      <Z>40.083</Z>
+    </_50>
+    <_51>
+      <Name>Little Portola</Name>
+      <X>-635.463</X>
+      <Y>-242.402</Y>
+      <Z>38.175</Z>
+    </_51>
+    <_52>
+      <Name>Pacific Bluffs Country Club</Name>
+      <X>-3022.222</X>
+      <Y>39.968</Y>
+      <Z>13.611</Z>
+    </_52>
+    <_53>
+      <Name>Vinewood Cemetery</Name>
+      <X>-1675.562866</X>
+      <Y>-222.789780</Y>
+      <Z>55.228493</Z>
+    </_53>
+    <_54>
+      <Name>Paleto Forest Sawmill Chimney</Name>
+      <X>-549.467</X>
+      <Y>5308.221</Y>
+      <Z>114.146</Z>
+    </_54>
+    <_55>
+      <Name>Mirror Park</Name>
+      <X>1070.206</X>
+      <Y>-711.958</Y>
+      <Z>58.483</Z>
+    </_55>
+    <_56>
+      <Name>Rocket</Name>
+      <X>1608.698</X>
+      <Y>6438.096</Y>
+      <Z>37.637</Z>
+    </_56>
+    <_57>
+      <Name>El Gordo Lighthouse</Name>
+      <X>3430.155</X>
+      <Y>5174.196</Y>
+      <Z>41.280</Z>
+    </_57>
+    <_58>
+      <Name>Mile High Club</Name>
+      <X>-144.274</X>
+      <Y>-946.813</Y>
+      <Z>269.135</Z>
+    </_58>
+  </Outdoor>
+<Sky>
+      <_0>
+      <Name>Very High Up</Name>
+      <X>-144.274</X>
+      <Y>-946.813</Y>
+      <Z>269.135</Z>
+    </_0>     
+	<_1>
+      <Name>High Up</Name>
+	<X>179.875</X>
+      <Y>-1099.862</Y>
+      <Z>160.355</Z>		
+    </_1>     
+	<_2>
+      <Name>Up</Name>
+      <X>1911.425</X>
+      <Y>562.045</Y>
+      <Z>179.903</Z>
+    </_2>      
+  </Sky>
+<Underwater>
+    <_0>
+      <Name>Sunken Body</Name>
+      <X>-3161.078</X>
+      <Y>3001.998</Y>
+      <Z>-37.974</Z>
+    </_0>
+    <_1>
+      <Name>Underwater WW2 Tank</Name>
+      <X>4201.633</X>
+      <Y>3643.821</Y>
+      <Z>-39.016</Z>
+    </_1>
+    <_2>
+      <Name>Dead Sea Monster</Name>
+      <X>-3373.726</X>
+      <Y>504.714</Y>
+      <Z>-24.656</Z>
+    </_2>
+    <_3>
+      <Name>Underwater UFO</Name>
+      <X>762.426</X>
+      <Y>7380.371</Y>
+      <Z>-111.377</Z>
+    </_3>
+    <_4>
+      <Name>Underwater Hatch</Name>
+      <X>4273.950</X>
+      <Y>2975.714</Y>
+      <Z>-170.746</Z>
+    </_4>
+    <_5>
+      <Name>Sunken Plane</Name>
+      <X>-942.350</X>
+      <Y>6608.752</Y>
+      <Z>-20.912</Z>
+    </_5>
+    <_6>
+      <Name>Sunken Cargo Ship</Name>
+      <X>3199.748</X>
+      <Y>-379.018</Y>
+      <Z>-22.500</Z>
+    </_6>
+  </Underwater>
+<Treasures>
+  <_0>
+    <Name>01 in land</Name>
+    <X>4877.223633</X>
+    <Y>-4781.618164</Y>
+    <Z>0.772427</Z>
+  </_0>
+  <_1>
+    <Name>02 at sea</Name>
+    <X>4560.783691</X>
+    <Y>-4770.355957</Y>
+    <Z>-3.464575</Z>
+  </_1>
+  <_2>
+    <Name>03 in land</Name>
+    <X>4535.372559</X>
+    <Y>-4703.358398</Y>
+    <Z>0.937309</Z>
+  </_2>
+  <_3>
+    <Name>04 at sea</Name>
+    <X>4414.787598</X>
+    <Y>-4652.195312</Y>
+    <Z>-5.443058</Z>
+  </_3>
+  <_4>
+    <Name>05 in land</Name>
+    <X>3900.126465</X>
+    <Y>-4705.424805</Y>
+    <Z>3.198209</Z>
+  </_4>
+  <_5>
+    <Name>06 at sea</Name>
+    <X>3982.706299</X>
+    <Y>-4541.182129</Y>
+    <Z>-6.453800</Z>
+  </_5>
+  <_6>
+    <Name>07 in land</Name>
+    <X>4178.784180</X>
+    <Y>-4358.181641</Y>
+    <Z>1.328199</Z>
+  </_6>
+  <_7>
+    <Name>08 at sea</Name>
+    <X>4560.799316</X>
+    <Y>-4357.082520</Y>
+    <Z>-8.059743</Z>
+  </_7>
+  <_8>
+    <Name>09 in land</Name>
+    <X>4822.903809</X>
+    <Y>-4322.191406</Y>
+    <Z>4.331015</Z>
+  </_8>
+  <_9>
+    <Name>10 at sea</Name>
+    <X>4943.924316</X>
+    <Y>-4294.319336</Y>
+    <Z>-6.899113</Z>
+  </_9>
+  <_10>
+    <Name>11 in land</Name>
+    <X>5175.767090</X>
+    <Y>-4678.687988</Y>
+    <Z>1.122824</Z>
+  </_10>
+  <_11>
+    <Name>12 at sea</Name>
+    <X>5265.491699</X>
+    <Y>-4920.326172</Y>
+    <Z>-3.258738</Z>
+  </_11>
+  <_12>
+    <Name>13 in land</Name>
+    <X>5591.557129</X>
+    <Y>-5216.467773</Y>
+    <Z>13.050913</Z>
+  </_12>
+  <_13>
+    <Name>14 at sea</Name>
+    <X>5599.757812</X>
+    <Y>-5603.992676</Y>
+    <Z>-6.365652</Z>
+  </_13>
+  <_14>
+    <Name>15 in land</Name>
+    <X>5458.498535</X>
+    <Y>-5860.354004</Y>
+    <Z>18.714365</Z>
+  </_14>
+  <_15>
+    <Name>16 in land</Name>
+    <X>4855.533203</X>
+    <Y>-5561.122559</Y>
+    <Z>26.235285</Z>
+  </_15>
+  <_16>
+    <Name>17 at sea</Name>
+    <X>4778.252441</X>
+    <Y>-5394.807617</Y>
+    <Z>-5.266779</Z>
+  </_16>
+  <_17>
+    <Name>18 in land</Name>
+    <X>4855.298340</X>
+    <Y>-5163.091309</Y>
+    <Z>1.138697</Z>
+  </_17>
+  <_18>
+    <Name>19 at sea</Name>
+    <X>4942.748535</X>
+    <Y>-5168.470703</Y>
+    <Z>-3.861616</Z>
+  </_18>
+</Treasures>
+<Garages>
+  <_0>
+    <Name>2 Car</Name>
+    <X>173.2903</X>
+    <Y>-1003.6</Y>
+    <Z>-99.65707</Z>
+  </_0>
+  <_0>
+    <Name>6 Car</Name>
+    <X>197.8153</X>
+    <Y>-1002.293</Y>
+    <Z>-99.65749</Z>
+  </_0>
+  <_0>
+    <Name>10 Car</Name>
+    <X>229.9559</X>
+    <Y>-981.7928</Y>
+    <Z>-99.66071</Z>
+  </_0>
+</Garages>
+<Apartments>
+  <_0>
+    <Name>Low End Apartment</Name>
+    <X>261.4586</X>
+    <Y>-998.8196</Y>
+    <Z>-99.00863</Z>
+  </_0>
+  <_0>
+    <Name>Medium End Apartment</Name>
+    <X>347.2686</X>
+    <Y>-999.2955</Y>
+    <Z>-99.19622</Z>
+  </_0>
+  <_0>
+    <Name>4 Integrity Way, Apt 28</Name>
+    <X>-18.07856</X>
+    <Y>-583.6725</Y>
+    <Z>79.46569</Z>
+  </_0>
+  <_0>
+    <Name>4 Integrity Way, Apt 30</Name>
+    <X>-35.31277</X>
+    <Y>-580.4199</Y>
+    <Z>88.71221</Z>
+  </_0>
+  <_0>
+    <Name>Dell Perro Heights, Apt 4</Name>
+    <X>-1468.14</X>
+    <Y>-541.815</Y>
+    <Z>73.4442</Z>
+  </_0>
+  <_0>
+    <Name>Dell Perro Heights, Apt 7</Name>
+    <X>-1477.14</X>
+    <Y>-538.7499</Y>
+    <Z>55.5264</Z>
+  </_0>
+  <_0>
+    <Name>Richard Majestic, Apt 2</Name>
+    <X>-915.811</X>
+    <Y>-379.432</Y>
+    <Z>113.6748</Z>
+  </_0>
+  <_0>
+    <Name>Tinsel Towers, Apt 42</Name>
+    <X>-614.86</X>
+    <Y>40.6783</Y>
+    <Z>97.60007</Z>
+  </_0>
+  <_0>
+    <Name>Eclipse Towers, Apt 3</Name>
+    <X>-773.407</X>
+    <Y>341.766</Y>
+    <Z>211.397</Z>
+  </_0>
+  <_0>
+    <Name>3655 Wild Oats Drive</Name>
+    <X>-169.286</X>
+    <Y>486.4938</Y>
+    <Z>137.4436</Z>
+  </_0>
+  <_0>
+    <Name>2044 North Conker Avenue</Name>
+    <X>340.9412</X>
+    <Y>437.1798</Y>
+    <Z>149.3925</Z>
+  </_0>
+  <_0>
+    <Name>2045 North Conker Avenue</Name>
+    <X>373.023</X>
+    <Y>416.105</Y>
+    <Z>145.7006</Z>
+  </_0>
+  <_0>
+    <Name>2862 Hillcrest Avenue</Name>
+    <X>-676.127</X>
+    <Y>588.612</Y>
+    <Z>145.1698</Z>
+  </_0>
+  <_0>
+    <Name>2868 Hillcrest Avenue</Name>
+    <X>-763.107</X>
+    <Y>615.906</Y>
+    <Z>144.1401</Z>
+  </_0>
+  <_0>
+    <Name>2874 Hillcrest Avenue</Name>
+    <X>-857.798</X>
+    <Y>682.563</Y>
+    <Z>152.6529</Z>
+  </_0>
+  <_0>
+    <Name>2677 Whispymound Drive</Name>
+    <X>120.5</X>
+    <Y>549.952</Y>
+    <Z>184.097</Z>
+  </_0>
+  <_0>
+    <Name>2133 Mad Wayne Thunder</Name>
+    <X>-1288</X>
+    <Y>440.748</Y>
+    <Z>97.69459</Z>
+  </_0>
+  <_0>
+    <Name>Modern 1 Apartment</Name>
+    <X>-786.8663</X>
+    <Y>315.7642</Y>
+    <Z>217.6385</Z>
+  </_0>
+  <_0>
+    <Name>Modern 2 Apartment</Name>
+    <X>-786.9563</X>
+    <Y>315.6229</Y>
+    <Z>187.9136</Z>
+  </_0>
+  <_0>
+    <Name>Modern 3 Apartment</Name>
+    <X>-774.0126</X>
+    <Y>342.0428</Y>
+    <Z>196.6864</Z>
+  </_0>
+  <_0>
+    <Name>Mody 1 Apartment</Name>
+    <X>-787.0749</X>
+    <Y>315.8198</Y>
+    <Z>217.6386</Z>
+  </_0>
+  <_0>
+    <Name>Mody 2 Apartment</Name>
+    <X>-786.8195</X>
+    <Y>315.5634</Y>
+    <Z>187.9137</Z>
+  </_0>
+  <_0>
+    <Name>Mody 3 Apartment</Name>
+    <X>-774.1382</X>
+    <Y>342.0316</Y>
+    <Z>196.6864</Z>
+  </_0>
+  <_0>
+    <Name>Vibrant 1 Apartment</Name>
+    <X>-786.6245</X>
+    <Y>315.6175</Y>
+    <Z>217.6385</Z>
+  </_0>
+  <_0>
+    <Name>Vibrant 2 Apartment</Name>
+    <X>-786.9584</X>
+    <Y>315.7974</Y>
+    <Z>187.9135</Z>
+  </_0>
+  <_0>
+    <Name>Vibrant 3 Apartment</Name>
+    <X>-774.0223</X>
+    <Y>342.1718</Y>
+    <Z>196.6863</Z>
+  </_0>
+  <_0>
+    <Name>Sharp 1 Apartment</Name>
+    <X>-787.0902</X>
+    <Y>315.7039</Y>
+    <Z>217.6384</Z>
+  </_0>
+  <_0>
+    <Name>Sharp 2 Apartment</Name>
+    <X>-787.0155</X>
+    <Y>315.7071</Y>
+    <Z>187.9135</Z>
+  </_0>
+  <_0>
+    <Name>Sharp 3 Apartment</Name>
+    <X>-773.8976</X>
+    <Y>342.1525</Y>
+    <Z>196.6863</Z>
+  </_0>
+  <_0>
+    <Name>Monochrome 1 Apartment</Name>
+    <X>-786.9887</X>
+    <Y>315.7393</Y>
+    <Z>217.6386</Z>
+  </_0>
+  <_0>
+    <Name>Monochrome 2 Apartment</Name>
+    <X>-786.8809</X>
+    <Y>315.6634</Y>
+    <Z>187.9136</Z>
+  </_0>
+  <_0>
+    <Name>Monochrome 3 Apartment</Name>
+    <X>-774.0675</X>
+    <Y>342.0773</Y>
+    <Z>196.6864</Z>
+  </_0>
+  <_0>
+    <Name>Seductive 1 Apartment</Name>
+    <X>-787.1423</X>
+    <Y>315.6943</Y>
+    <Z>217.6384</Z>
+  </_0>
+  <_0>
+    <Name>Seductive 2 Apartment</Name>
+    <X>-787.0961</X>
+    <Y>315.815</Y>
+    <Z>187.9135</Z>
+  </_0>
+  <_0>
+    <Name>Seductive 3 Apartment</Name>
+    <X>-773.9552</X>
+    <Y>341.9892</Y>
+    <Z>196.6862</Z>
+  </_0>
+  <_0>
+    <Name>Regal 1 Apartment</Name>
+    <X>-787.029</X>
+    <Y>315.7113</Y>
+    <Z>217.6385</Z>
+  </_0>
+  <_0>
+    <Name>Regal 2 Apartment</Name>
+    <X>-787.0574</X>
+    <Y>315.6567</Y>
+    <Z>187.9135</Z>
+  </_0>
+  <_0>
+    <Name>Regal 3 Apartment</Name>
+    <X>-774.0109</X>
+    <Y>342.0965</Y>
+    <Z>196.6863</Z>
+  </_0>
+  <_0>
+    <Name>Aqua 1 Apartment</Name>
+    <X>-786.9469</X>
+    <Y>315.5655</Y>
+    <Z>217.6383</Z>
+  </_0>
+  <_0>
+    <Name>Aqua 2 Apartment</Name>
+    <X>-786.9756</X>
+    <Y>315.723</Y>
+    <Z>187.9134</Z>
+  </_0>
+  <_0>
+    <Name>Aqua 3 Apartment</Name>
+    <X>-774.0349</X>
+    <Y>342.0296</Y>
+    <Z>196.6862</Z>
+  </_0>
+</Apartments>
+<Misc>
+  <_0>
+    <Name>Bunker Interior</Name>
+    <X>899.5518</X>
+    <Y>-3246.038</Y>
+    <Z>-98.04907</Z>
+  </_0>
+  <_0>
+    <Name>CharCreator</Name>
+    <X>402.5164</X>
+    <Y>-1002.847</Y>
+    <Z>-99.2587</Z>
+  </_0>
+  <_0>
+    <Name>Mission Carpark</Name>
+    <X>405.9228</X>
+    <Y>-954.1149</Y>
+    <Z>-99.6627</Z>
+  </_0>
+  <_0>
+    <Name>Torture Room</Name>
+    <X>136.5146</X>
+    <Y>-2203.149</Y>
+    <Z>7.30914</Z>
+  </_0>
+  <_0>
+    <Name>Solomon's Office</Name>
+    <X>-1005.84</X>
+    <Y>-478.92</Y>
+    <Z>50.02733</Z>
+  </_0>
+  <_0>
+    <Name>Psychiatrist's Office</Name>
+    <X>-1908.024</X>
+    <Y>-573.4244</Y>
+    <Z>19.09722</Z>
+  </_0>
+  <_0>
+    <Name>Omega's Garage</Name>
+    <X>2331.344</X>
+    <Y>2574.073</Y>
+    <Z>46.68137</Z>
+  </_0>
+  <_0>
+    <Name>Movie Theatre</Name>
+    <X>-1427.299</X>
+    <Y>-245.1012</Y>
+    <Z>16.8039</Z>
+  </_0>
+  <_0>
+    <Name>Motel</Name>
+    <X>152.2605</X>
+    <Y>-1004.471</Y>
+    <Z>-98.99999</Z>
+  </_0>
+  <_0>
+    <Name>Madrazos Ranch</Name>
+    <X>1399</X>
+    <Y>1150</Y>
+    <Z>115</Z>
+  </_0>
+  <_0>
+    <Name>Life Invader Office</Name>
+    <X>-1044.193</X>
+    <Y>-236.9535</Y>
+    <Z>37.96496</Z>
+  </_0>
+  <_0>
+    <Name>Lester's House</Name>
+    <X>1273.9</X>
+    <Y>-1719.305</Y>
+    <Z>54.77141</Z>
+  </_0>
+  <_0>
+    <Name>FBI Top Floor</Name>
+    <X>134.5835</X>
+    <Y>-749.339</Y>
+    <Z>258.152</Z>
+  </_0>
+  <_0>
+    <Name>FBI Floor 47</Name>
+    <X>134.5835</X>
+    <Y>-766.486</Y>
+    <Z>234.152</Z>
+  </_0>
+  <_0>
+    <Name>FBI Floor 49</Name>
+    <X>134.635</X>
+    <Y>-765.831</Y>
+    <Z>242.152</Z>
+  </_0>
+  <_0>
+    <Name>IAA Office</Name>
+    <X>117.22</X>
+    <Y>-620.938</Y>
+    <Z>206.1398</Z>
+  </_0>
+  <_0>
+    <Name>Smuggler's Run Hangar</Name>
+    <X>-1266.802</X>
+    <Y>-3014.837</Y>
+    <Z>-49.000</Z>
+  </_0>
+  <_0>
+    <Name>Avenger Interior</Name>
+    <X>520.0</X>
+    <Y>4750.0</Y>
+    <Z>-70.0</Z>
+  </_0>
+  <_0>
+    <Name>Facility</Name>
+    <X>345.0041</X>
+    <Y>4842.001</Y>
+    <Z>-59.9997</Z>
+  </_0>
+  <_0>
+    <Name>Server Farm</Name>
+    <X>2168.0</X>
+    <Y>2920.0</Y>
+    <Z>-84.0</Z>
+  </_0>
+  <_0>
+    <Name>Submarine</Name>
+    <X>514.33</X>
+    <Y>4886.18</Y>
+    <Z>-62.59</Z>
+  </_0>
+  <_0>
+    <Name>IAA Facility</Name>
+    <X>2147.91</X>
+    <Y>2921.0</Y>
+    <Z>-61.9</Z>
+  </_0>
+  <_0>
+    <Name>Nightclub</Name>
+    <X>-1604.664</X>
+    <Y>-3012.583</Y>
+    <Z>-78.000</Z>
+  </_0>
+  <_0>
+    <Name>Nightclub Warehouse</Name>
+    <X>-1505.783</X>
+    <Y>-3012.587</Y>
+    <Z>-80.000</Z>
+  </_0>
+  <_0>
+    <Name>Terrorbyte Interior</Name>
+    <X>-1421.015</X>
+    <Y>-3012.587</Y>
+    <Z>-80.000</Z>
+  </_0>
+</Misc>
+<Casino>
+  <_0>
+    <Name>Casino</Name>
+    <X>1100.000</X>
+    <Y>220.000</Y>
+    <Z>-50.000</Z>
+  </_0>
+  <_0>
+    <Name>Garage</Name>
+    <X>1295.000</X>
+    <Y>230.000</Y>
+    <Z>-50.000</Z>
+  </_0>
+  <_0>
+    <Name>Car Park</Name>
+    <X>1380.000</X>
+    <Y>200.000</Y>
+    <Z>-50.000</Z>
+  </_0>
+  <_0>
+    <Name>Penthouse</Name>
+    <X>976.636</X>
+    <Y>70.295</Y>
+    <Z>115.164</Z>
+  </_0>
+</Casino>
+<Special>
+  <_0>
+    <Name>Normal Cargo Ship</Name>
+    <X>-163.3628</X>
+    <Y>-2385.161</Y>
+    <Z>5.999994</Z>
+  </_0>
+  <_0>
+    <Name>Sunken Cargo Ship</Name>
+    <X>-163.3628</X>
+    <Y>-2385.161</Y>
+    <Z>5.999994</Z>
+  </_0>
+  <_0>
+    <Name>Burning Cargo Ship</Name>
+    <X>-163.3628</X>
+    <Y>-2385.161</Y>
+    <Z>5.999994</Z>
+  </_0>
+  <_0>
+    <Name>Red Carpet</Name>
+    <X>300.5927</X>
+    <Y>300.5927</Y>
+    <Z>104.3776</Z>
+  </_0>
+  <_0>
+    <Name>Rekt Stilthouse Destroyed</Name>
+    <X>-1020.518</X>
+    <Y>663.27</Y>
+    <Z>153.5167</Z>
+  </_0>
+  <_0>
+    <Name>Rekt Stilthouse Rebuild</Name>
+    <X>-1020.518</X>
+    <Y>663.27</Y>
+    <Z>153.5167</Z>
+  </_0>
+  <_0>
+    <Name>Union Depository</Name>
+    <X>2.6968</X>
+    <Y>-667.0166</Y>
+    <Z>16.13061</Z>
+  </_0>
+  <_0>
+    <Name>Trevors Trailer Dirty</Name>
+    <X>1975.552</X>
+    <Y>3820.538</Y>
+    <Z>33.44833</Z>
+  </_0>
+  <_0>
+    <Name>Trevors Trailer Clean</Name>
+    <X>1975.552</X>
+    <Y>3820.538</Y>
+    <Z>33.44833</Z>
+  </_0>
+  <_0>
+    <Name>Stadium</Name>
+    <X>-248.6731</X>
+    <Y>-2010.603</Y>
+    <Z>30.14562</Z>
+  </_0>
+  <_0>
+    <Name>Max Renda Shop</Name>
+    <X>-585.8247</X>
+    <Y>-282.72</Y>
+    <Z>35.45475</Z>
+  </_0>
+  <_0>
+    <Name>Jewel Store</Name>
+    <X>-630.07</X>
+    <Y>-236.332</Y>
+    <Z>38.05704</Z>
+  </_0>
+  <_0>
+    <Name>FIB Lobby</Name>
+    <X>110.4</X>
+    <Y>-744.2</Y>
+    <Z>45.7496</Z>
+  </_0>
+</Special>
+<Clubhouse>
+  <_0>
+    <Name>Clubhouse 1</Name>
+    <X>1107.04</X>
+    <Y>-3157.399</Y>
+    <Z>-37.51859</Z>
+  </_0>
+  <_0>
+    <Name>Clubhouse 2</Name>
+    <X>998.4809</X>
+    <Y>-3164.711</Y>
+    <Z>-38.90733</Z>
+  </_0>
+  <_0>
+    <Name>Meth Lab</Name>
+    <X>1009.5</X>
+    <Y>-3196.6</Y>
+    <Z>-38.99682</Z>
+  </_0>
+  <_0>
+    <Name>Weed Farm</Name>
+    <X>1051.491</X>
+    <Y>-3196.536</Y>
+    <Z>-39.14842</Z>
+  </_0>
+  <_0>
+    <Name>Cocaine Lockup</Name>
+    <X>1093.6</X>
+    <Y>-3196.6</Y>
+    <Z>-38.99841</Z>
+  </_0>
+  <_0>
+    <Name>Counterfeit Cash Factory</Name>
+    <X>1121.897</X>
+    <Y>-3195.338</Y>
+    <Z>-40.4025</Z>
+  </_0>
+  <_0>
+    <Name>Document Forgery Office</Name>
+    <X>1165</X>
+    <Y>-3196.6</Y>
+    <Z>-39.01306</Z>
+  </_0>
+  <_0>
+    <Name>Warehouse Small</Name>
+    <X>1094.988</X>
+    <Y>-3101.776</Y>
+    <Z>-39.00363</Z>
+  </_0>
+  <_0>
+    <Name>Warehouse Medium</Name>
+    <X>1056.486</X>
+    <Y>-3105.724</Y>
+    <Z>-39.00439</Z>
+  </_0>
+  <_0>
+    <Name>Warehouse Large</Name>
+    <X>1006.967</X>
+    <Y>-3102.079</Y>
+    <Z>-39.0035</Z>
+  </_0>
+  <_0>
+    <Name>Vehicle Warehouse</Name>
+    <X>994.5925</X>
+    <Y>-3002.594</Y>
+    <Z>-39.64699</Z>
+  </_0>
+  <_0>
+    <Name>Lost MC Clubhouse</Name>
+    <X>982.0083</X>
+    <Y>-100.8747</Y>
+    <Z>74.84512</Z>
+  </_0>
+</Clubhouse>
+<MazeBankWest>
+  <_0>
+    <Name>Executive Rich</Name>
+    <X>-1392.667</X>
+    <Y>-480.4736</Y>
+    <Z>72.04217</Z>
+  </_0>
+  <_0>
+    <Name>Executive Cool</Name>
+    <X>-1392.542</X>
+    <Y>-480.4011</Y>
+    <Z>72.04211</Z>
+  </_0>
+  <_0>
+    <Name>Executive Contrast</Name>
+    <X>-1392.626</X>
+    <Y>-480.4856</Y>
+    <Z>72.04212</Z>
+  </_0>
+  <_0>
+    <Name>Old Spice Warm</Name>
+    <X>-1392.617</X>
+    <Y>-480.6363</Y>
+    <Z>72.04208</Z>
+  </_0>
+  <_0>
+    <Name>Old Spice Classical</Name>
+    <X>-1392.532</X>
+    <Y>-480.7649</Y>
+    <Z>72.04207</Z>
+  </_0>
+  <_0>
+    <Name>Old Spice Vintage</Name>
+    <X>-1392.611</X>
+    <Y>-480.5562</Y>
+    <Z>72.04214</Z>
+  </_0>
+  <_0>
+    <Name>Power Broker Ice</Name>
+    <X>-1392.563</X>
+    <Y>-480.549</Y>
+    <Z>72.0421</Z>
+  </_0>
+  <_0>
+    <Name>Power Broker Convservative</Name>
+    <X>-1392.528</X>
+    <Y>-480.475</Y>
+    <Z>72.04206</Z>
+  </_0>
+  <_0>
+    <Name>Power Broker Polished</Name>
+    <X>-1392.416</X>
+    <Y>-480.7485</Y>
+    <Z>72.04207</Z>
+  </_0>
+  <_0>
+    <Name>Garage 1</Name>
+    <X>-1388.8400</X>
+    <Y>-478.7402</Y>
+    <Z>56.1000</Z>
+  </_0>
+  <_0>
+    <Name>Garage 2</Name>
+    <X>-1388.8600</X>
+    <Y>-478.7574</Y>
+    <Z>48.1000</Z>
+  </_0>
+  <_0>
+    <Name>Garage 3</Name>
+    <X>-1374.6820</X>
+    <Y>-474.3586</Y>
+    <Z>56.1000</Z>
+  </_0>
+  <_0>
+    <Name>Mod Shop</Name>
+    <X>-1391.2450</X>
+    <Y>-473.9638</Y>
+    <Z>77.2000</Z>
+  </_0>
+</MazeBankWest>
+<LomBank>
+  <_0>
+    <Name>Executive Rich</Name>
+    <X>-1579.756</X>
+    <Y>-565.0661</Y>
+    <Z>108.523</Z>
+  </_0>
+  <_0>
+    <Name>Executive Cool</Name>
+    <X>-1579.678</X>
+    <Y>-565.0034</Y>
+    <Z>108.5229</Z>
+  </_0>
+  <_0>
+    <Name>Executive Contrast</Name>
+    <X>-1579.583</X>
+    <Y>-565.0399</Y>
+    <Z>108.5229</Z>
+  </_0>
+  <_0>
+    <Name>Old Spice Warm</Name>
+    <X>-1579.702</X>
+    <Y>-565.0366</Y>
+    <Z>108.5229</Z>
+  </_0>
+  <_0>
+    <Name>Old Spice Classical</Name>
+    <X>-1579.643</X>
+    <Y>-564.9685</Y>
+    <Z>108.5229</Z>
+  </_0>
+  <_0>
+    <Name>Old Spice Vintage</Name>
+    <X>-1579.681</X>
+    <Y>-565.0003</Y>
+    <Z>108.523</Z>
+  </_0>
+  <_0>
+    <Name>Power Broker Ice</Name>
+    <X>-1579.677</X>
+    <Y>-565.0689</Y>
+    <Z>108.5229</Z>
+  </_0>
+  <_0>
+    <Name>Power Broker Conservative</Name>
+    <X>-1579.708</X>
+    <Y>-564.9634</Y>
+    <Z>108.5229</Z>
+  </_0>
+  <_0>
+    <Name>Power Broker Polished</Name>
+    <X>-1579.693</X>
+    <Y>-564.8981</Y>
+    <Z>108.5229</Z>
+  </_0>
+  <_0>
+    <Name>Garage 1</Name>
+    <X>-1581.1120</X>
+    <Y>-567.2450</Y>
+    <Z>85.5000</Z>
+  </_0>
+  <_0>
+    <Name>Garage 2</Name>
+    <X>-1568.7390</X>
+    <Y>-562.0455</Y>
+    <Z>85.5000</Z>
+  </_0>
+  <_0>
+    <Name>Garage 3</Name>
+    <X>-1563.5570</X>
+    <Y>-574.4314</Y>
+    <Z>85.5000</Z>
+  </_0>
+  <_0>
+    <Name>Mod Shop</Name>
+    <X>-1578.0230</X>
+    <Y>-576.4251</Y>
+    <Z>104.2000</Z>
+  </_0>
+</LomBank>
+<MazeBank>
+  <_0>
+    <Name>Executive Rich</Name>
+    <X>-75.8466</X>
+    <Y>-826.9893</Y>
+    <Z>243.3859</Z>
+  </_0>
+  <_0>
+    <Name>Executive Cool</Name>
+    <X>-75.49945</X>
+    <Y>-827.05</Y>
+    <Z>243.386</Z>
+  </_0>
+  <_0>
+    <Name>Executive Contrast</Name>
+    <X>-75.49827</X>
+    <Y>-827.1889</Y>
+    <Z>243.386</Z>
+  </_0>
+  <_0>
+    <Name>Old Spice Warm</Name>
+    <X>-75.44054</X>
+    <Y>-827.1487</Y>
+    <Z>243.3859</Z>
+  </_0>
+  <_0>
+    <Name>Old Spice Classical</Name>
+    <X>-75.63942</X>
+    <Y>-827.1022</Y>
+    <Z>243.3859</Z>
+  </_0>
+  <_0>
+    <Name>Old Spice Vintage</Name>
+    <X>-75.47446</X>
+    <Y>-827.2621</Y>
+    <Z>243.386</Z>
+  </_0>
+  <_0>
+    <Name>Power Broker Ice</Name>
+    <X>-75.56978</X>
+    <Y>-827.1152</Y>
+    <Z>243.3859</Z>
+  </_0>
+  <_0>
+    <Name>Power Broker Conservative</Name>
+    <X>-75.51953</X>
+    <Y>-827.0786</Y>
+    <Z>243.3859</Z>
+  </_0>
+  <_0>
+    <Name>Power Broker Polished</Name>
+    <X>-75.41915</X>
+    <Y>-827.1118</Y>
+    <Z>243.3858</Z>
+  </_0>
+  <_0>
+    <Name>Garage 1</Name>
+    <X>-84.2193</X>
+    <Y>-823.0851</Y>
+    <Z>221.0000</Z>
+  </_0>
+  <_0>
+    <Name>Garage 2</Name>
+    <X>-69.8627</X>
+    <Y>-824.7498</Y>
+    <Z>221.0000</Z>
+  </_0>
+  <_0>
+    <Name>Garage 3</Name>
+    <X>-80.4318</X>
+    <Y>-813.2536</Y>
+    <Z>221.0000</Z>
+  </_0>
+  <_0>
+    <Name>Mod Shop</Name>
+    <X>-73.9039</X>
+    <Y>-821.6204</Y>
+    <Z>284.0000</Z>
+  </_0>
+</MazeBank>
+<Arcadius>
+  <_0>
+    <Name>Executive Rich</Name>
+    <X>-141.1987</X>
+    <Y>-620.913</Y>
+    <Z>168.8205</Z>
+  </_0>
+  <_0>
+    <Name>Executive Cool</Name>
+    <X>-141.5429</X>
+    <Y>-620.9524</Y>
+    <Z>168.8204</Z>
+  </_0>
+  <_0>
+    <Name>Executive Contrast</Name>
+    <X>-141.2896</X>
+    <Y>-620.9618</Y>
+    <Z>168.8204</Z>
+  </_0>
+  <_0>
+    <Name>Old Spice Warm</Name>
+    <X>-141.4966</X>
+    <Y>-620.8292</Y>
+    <Z>168.8204</Z>
+  </_0>
+  <_0>
+    <Name>Old Spice Classical</Name>
+    <X>-141.3997</X>
+    <Y>-620.9006</Y>
+    <Z>168.8204</Z>
+  </_0>
+  <_0>
+    <Name>Old Spice Vintage</Name>
+    <X>-141.5361</X>
+    <Y>-620.9186</Y>
+    <Z>168.8204</Z>
+  </_0>
+  <_0>
+    <Name>Power Broker Ice</Name>
+    <X>-141.392</X>
+    <Y>-621.0451</Y>
+    <Z>168.8204</Z>
+  </_0>
+  <_0>
+    <Name>Power Broker Conservative</Name>
+    <X>-141.1945</X>
+    <Y>-620.8729</Y>
+    <Z>168.8204</Z>
+  </_0>
+  <_0>
+    <Name>Power Broker Polished</Name>
+    <X>-141.4924</X>
+    <Y>-621.0035</Y>
+    <Z>168.8205</Z>
+  </_0>
+  <_0>
+    <Name>Garage 1</Name>
+    <X>-191.0133</X>
+    <Y>-579.1428</Y>
+    <Z>135.0000</Z>
+  </_0>
+  <_0>
+    <Name>Garage 2</Name>
+    <X>-117.4989</X>
+    <Y>-568.1132</Y>
+    <Z>135.0000</Z>
+  </_0>
+  <_0>
+    <Name>Garage 3</Name>
+    <X>-136.0780</X>
+    <Y>-630.1852</Y>
+    <Z>135.0000</Z>
+  </_0>
+  <_0>
+    <Name>Mod Shop</Name>
+    <X>-146.6166</X>
+    <Y>-596.6301</Y>
+    <Z>166.0000</Z>
+  </_0>
+</Arcadius>
+</Teleports>
+```

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<HandlingData>
+	<Mass>1400</Mass>
+	<InitialDragCoefficient>0.000919999962</InitialDragCoefficient>
+	<DownforceMultiplier>0</DownforceMultiplier>
+	<CentreOfMass X="0" Y="-0.0700000003" Z="0" />
+	<InertiaMultiplier X="1.20000005" Y="1.5" Z="1.60000002" />
+	<Buoyancy>85</Buoyancy>
+	<DriveBiasRear>1.17647064</DriveBiasRear>
+	<DriveBiasFront>0</DriveBiasFront>
+	<Acceleration>1</Acceleration>
+	<InitialDriveGears>5</InitialDriveGears>
+	<DriveInertia>1</DriveInertia>
+	<Upshift>2.20000005</Upshift>
+	<Downshift>2.20000005</Downshift>
+	<InitialDriveForce>0.340000004</InitialDriveForce>
+	<DriveMaxFlatVelocity>50.6666718</DriveMaxFlatVelocity>
+	<InitialDriveMaxFlatVelocity>42.2222252</InitialDriveMaxFlatVelocity>
+	<BrakeForce>0.800000012</BrakeForce>
+	<BrakeBiasFront>1.20000005</BrakeBiasFront>
+	<BrakeBiasRear>0.799999952</BrakeBiasRear>
+	<HandbrakeForce>0.800000012</HandbrakeForce>
+	<SteeringLock>0.75049156</SteeringLock>
+	<SteeringLockRatio>1.33246005</SteeringLockRatio>
+	<TractionCurveMax>2.5999999</TractionCurveMax>
+	<TractionCurveLateral>0.384615391</TractionCurveLateral>
+	<TractionCurveMin>2.1500001</TractionCurveMin>
+	<TractionCurveRatio>2.22222328</TractionCurveRatio>
+	<CurveLateral>0.392699093</CurveLateral>
+	<CurveLateralRatio>2.54647899</CurveLateralRatio>
+	<TractionSpringDeltaMax>0.150000006</TractionSpringDeltaMax>
+	<TractionSpringDeltaMaxRatio>6.66666651</TractionSpringDeltaMaxRatio>
+	<LowSpeedTractionLossMultiplier>1</LowSpeedTractionLossMultiplier>
+	<CamberStiffness>0</CamberStiffness>
+	<TractionBiasFront>1</TractionBiasFront>
+	<TractionBiasRear>1</TractionBiasRear>
+	<TractionLossMultiplier>1</TractionLossMultiplier>
+	<SuspensionForce>2.5999999</SuspensionForce>
+	<SuspensionCompressionDamping>0.120000005</SuspensionCompressionDamping>
+	<SuspensionReboundDamping>0.24000001</SuspensionReboundDamping>
+	<SuspensionUpperLimit>0.0900000036</SuspensionUpperLimit>
+	<SuspensionLowerLimit>-0.140000001</SuspensionLowerLimit>
+	<SuspensionRaise>0</SuspensionRaise>
+	<SuspensionBiasFront>0.899999976</SuspensionBiasFront>
+	<SuspensionBiasRear>1.10000002</SuspensionBiasRear>
+	<AntiRollbarForce>0.899999976</AntiRollbarForce>
+	<AntiRollbarBiasFront>1.36000001</AntiRollbarBiasFront>
+	<AntiRollbarBiasRear>0.639999986</AntiRollbarBiasRear>
+	<RollCentreHeightFront>0.349999994</RollCentreHeightFront>
+	<RollCentreHeightRear>0.400000006</RollCentreHeightRear>
+	<CollisionDamageMultiplier>0.699999988</CollisionDamageMultiplier>
+	<WeaponDamageMultiplier>1</WeaponDamageMultiplier>
+	<DeformationMultiplier>0.699999988</DeformationMultiplier>
+	<EngineDamageMultiplier>1.5</EngineDamageMultiplier>
+	<PetrolTankVolume>60</PetrolTankVolume>
+	<OilVolume>5</OilVolume>
+	<SeatOffsetDistance X="0" Y="0" Z="0" />
+</HandlingData>
